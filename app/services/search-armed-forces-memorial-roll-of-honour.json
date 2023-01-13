@@ -1,0 +1,9 @@
+{
+  "name": "Search the Armed Forces Memorial roll of honour",
+  "description": "Find out if someone's listed on the Armed Forces Memorial roll of honour - information available, print a certificate",
+  "organisation": "Ministry of Defence",
+  "theme": "Citizenship and living in the UK",
+  "phase": "beta",
+  "liveservice": "https://www.search-armed-forces-memorial-roll-of-honour.service.gov.uk/",
+  "start-page": "https://www.gov.uk/search-armed-forces-memorial-roll-of-honour"
+}
